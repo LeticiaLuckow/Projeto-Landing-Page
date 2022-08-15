@@ -1,6 +1,6 @@
 # Landing Page
 
-Esse projeto é uma Landing Page feito com HTML  e Css.
+Esse projeto é uma Landing Page feito com HTML  e CSS.
 
 ## Instalação
 
