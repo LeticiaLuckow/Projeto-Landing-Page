@@ -13,4 +13,4 @@ git clone <repo>
 
 ##  Créditos
 
-Desenvolvido por [Letícia Villas](https://github.com/leticialuckow)](https://github.com/leticialuckow).
+Desenvolvido por [Letícia Villas](https://github.com/leticialuckow).
